@@ -1,0 +1,35 @@
+#Internal package file, do not edit.
+#Sun Jan 13 16:25:37 SGT 2019
+7.path=fonts/font_awesome_5_free_Solid_900.otf
+2.base=D\:\\Workspace\\HonestPanda\\android\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+5.set=ASSET
+0.path=fonts/fa_regular_400.ttf
+2.baseType=DIRECTORY
+3.base=D\:\\Workspace\\HonestPanda\\android\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+7.baseType=DIRECTORY
+2.set=ASSET
+1.path=fonts/fa_solid_900.ttf
+4.base=D\:\\Workspace\\HonestPanda\\android\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+7.set=ASSET
+count=8
+5.baseType=DIRECTORY
+2.path=ula.kml
+5.base=D\:\\Workspace\\HonestPanda\\android\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+4.set=ASSET
+3.path=fonts/font_awesome_5_free_regular_400.otf
+6.base=D\:\\Workspace\\HonestPanda\\android\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+3.baseType=DIRECTORY
+1.set=ASSET
+4.path=fonts/fa_brands_400.ttf
+7.base=D\:\\Workspace\\HonestPanda\\android\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+6.set=ASSET
+1.baseType=DIRECTORY
+6.baseType=DIRECTORY
+5.path=fonts/font_awesome_5_brands_regular_400.otf
+0.base=D\:\\Workspace\\HonestPanda\\android\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+0.baseType=DIRECTORY
+3.set=ASSET
+6.path=index.android.bundle
+1.base=D\:\\Workspace\\HonestPanda\\android\\app\\build\\intermediates\\merged_assets\\debug\\mergeDebugAssets\\out
+4.baseType=DIRECTORY
+0.set=ASSET
